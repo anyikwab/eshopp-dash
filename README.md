@@ -1,1 +1,1 @@
-# electronic-shop-dashboard
+# eshopp-dashboard
