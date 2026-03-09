@@ -13,9 +13,7 @@ A dashboard showcasing sales revenue according to user input.
 
 1. Start Power BI
 2. Check current version
-   - Help
-   - About
-   - Version
+   - Help → About → Version
 3. Download project according to version
 4. Open file in Power BI
 
